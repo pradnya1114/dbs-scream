@@ -22,9 +22,9 @@
 }
 
 .galaxy-bg {
-  background-image: url('./bg.png');
-  background-size: cover;
-  background-position: center;
+  width: 100%;
+  min-height: 100vh;
+  background: url("/bg.png") center center / cover no-repeat !important;
   position: relative;
 }
 
