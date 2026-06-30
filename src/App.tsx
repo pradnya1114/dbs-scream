@@ -161,7 +161,7 @@ export default function App() {
       <div className="absolute top-2 left-2 z-50 flex items-center gap-3">
         <div className="w-32 h-32 items-center justify-center p-2">
           <img 
-            src="./logo.png" 
+            src="/logo.png" 
             alt="Logo" 
             className="w-full h-full object-contain"
           />
