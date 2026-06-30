@@ -1,0 +1,6 @@
+{
+  "name": "Rocket Launch Scream Challenge",
+  "description": "A high-energy offline game where players scream into a microphone to launch a rocket to space.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
